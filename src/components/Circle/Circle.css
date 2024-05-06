@@ -1,0 +1,8 @@
+.circle {
+    width: 120px;
+    height: 120px;
+    margin: 24px;
+    border-radius: 50%;
+    flex-direction: row; 
+    flex-wrap: wrap;
+  }

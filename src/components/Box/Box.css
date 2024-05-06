@@ -1,9 +1,10 @@
 .box {
   width: 120px;
-  height: 120px;
+  height: 80px;
   margin: 24px;
-  border-radius: 50%;
+  border-radius: 10%;
   display: flex;
   align-items: center;
   justify-content: center;
+
 }
